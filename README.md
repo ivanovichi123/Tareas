@@ -1,4 +1,4 @@
 # Tareas
 
 ## Corrección: 
-- 4_dlist: Error al nombrar la clase, le puse "Dlist" cuando tenia que llamasre "dlist".
+- 4_dlist: Error al nombrar la clase, le puse "dlist" cuando tenia que llamasre "DList".
